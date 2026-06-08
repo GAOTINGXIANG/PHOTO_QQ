@@ -134,3 +134,6 @@ if __name__ == "__main__":
     win.take_photo()
     win.send_photo()
     sys.exit(app.exec_())
+
+
+#-河南理工大学-高廷翔-2026-
